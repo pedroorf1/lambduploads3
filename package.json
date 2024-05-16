@@ -1,0 +1,18 @@
+{
+  "name": "evideovlslambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pedroorf@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.577.0",
+    "@aws-sdk/lib-storage": "^3.578.0",
+    "axios": "^1.6.8",
+    "lambda-multipart": "^1.0.2",
+    "uuid": "^9.0.1"
+  }
+}
